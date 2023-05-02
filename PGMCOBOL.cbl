@@ -1,0 +1,14 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. PGMCOBOL.
+       ENVIRONMENT DIVISION.
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       
+
+       LINKAGE SECTION.
+       PROCEDURE DIVISION.
+       0000-MAIN.
+           DISPLAY 'HELLO WORLD!'.
+
+           STOP RUN.          
+       
